@@ -27,7 +27,7 @@ FarmingGo aims to bridge the gap between farmers and consumers by creating a dir
 ## How to use Farmminggo
 - How to Use FarmingGo--
 
-Step 1: Login / Registration 
+--**Step 1: Login / Registration**
 
 Open the FarmingGo app.
 
@@ -48,7 +48,7 @@ Now, you can login using your username and password.
 Demo account- abc@gmail.com
 Password - 123456789
 
-Step 2: Browse Products
+--**Step 2: Browse Products**
 
 After logging in, you will see the Product Categories screen.
 
@@ -68,7 +68,7 @@ Grains
 
 Click on a category to view available products.
 
-Step 3: Select Products
+--**Step 3: Select Products**
 
 Click on a product to view its subcategories (e.g., different types of fruits or vegetables).
 
@@ -94,7 +94,7 @@ Delivery address
 
 If everything is correct, click on the ORDER button to proceed.
 
-Step 5: Make Payment
+--**Step 5: Make Payment**
 
 Choose your preferred payment method:
 
@@ -108,7 +108,7 @@ You can also apply any available rewards or offers.
 
 After selecting the payment method, click PROCEED TO PAY to complete your order.
 
-Step 6: Order Confirmation
+--**Step 6: Order Confirmation**
 
 Once payment is successful, you will receive an order confirmation.
 
