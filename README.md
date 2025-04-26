@@ -7,6 +7,7 @@ FarmingGo is a mobile-based e-commerce platform that connects farmers directly w
 - [Features](#features)
 - [Installation](#installation)
 - [Technology Stack](#technology-stack)
+- [How to use Farmminggo](#How-to-use-Farmmingo)
 - [License](#license)
 
 ## About the Project
@@ -22,7 +23,97 @@ FarmingGo aims to bridge the gap between farmers and consumers by creating a dir
 - **Firebase / AWS** for cloud services.
 - **Figma** for UI/UX design.
 - **Android Studio** for Android development
-- 
+
+## How to use Farmminggo
+- How to Use FarmingGo--
+
+Step 1: Login / Registration 
+
+Open the FarmingGo app.
+
+If you are a new user, click on the Register button.
+
+Fill in your basic details like:
+
+Phone Number
+
+Email ID
+
+Address
+
+After submitting the information, your account will be created.
+
+Now, you can login using your username and password.
+
+Demo account- abc@gmail.com
+Password - 123456789
+
+Step 2: Browse Products
+
+After logging in, you will see the Product Categories screen.
+
+Available categories include:
+
+Fruits
+
+Vegetables
+
+Cash Crops
+
+Pulses
+
+Spices
+
+Grains
+
+Click on a category to view available products.
+
+Step 3: Select Products
+
+Click on a product to view its subcategories (e.g., different types of fruits or vegetables).
+
+Select the quantity of the product you wish to order.
+
+After adding the required products, click on the ORDER NOW button.
+
+Step 4: Review Cart
+
+In the next screen, review the products added to your cart.
+
+Check:
+
+Product names
+
+Quantities
+
+Prices
+
+Total amount
+
+Delivery address
+
+If everything is correct, click on the ORDER button to proceed.
+
+Step 5: Make Payment
+
+Choose your preferred payment method:
+
+Net Banking
+
+Wallet/UPI
+
+Credit/Debit/ATM Card
+
+You can also apply any available rewards or offers.
+
+After selecting the payment method, click PROCEED TO PAY to complete your order.
+
+Step 6: Order Confirmation
+
+Once payment is successful, you will receive an order confirmation.
+
+Your products will be delivered to the mentioned address.
+
 ## Installation
 1. Clone the repository:
    ```bash
