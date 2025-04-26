@@ -6,9 +6,7 @@ FarmingGo is a mobile-based e-commerce platform that connects farmers directly w
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Technology Stack](#technology-stack)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About the Project
@@ -19,7 +17,12 @@ FarmingGo aims to bridge the gap between farmers and consumers by creating a dir
 ## Features.
 - Direct product listing and search.
 - 
-
+## Technology Stack
+- **Flutter** for cross-platform mobile development.
+- **Firebase / AWS** for cloud services.
+- **Figma** for UI/UX design.
+- **Android Studio** for Android development
+- 
 ## Installation
 1. Clone the repository:
    ```bash
